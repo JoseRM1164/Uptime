@@ -8,4 +8,4 @@ Para correr agregar un nuevo monitor, se debe correr add.py y ingresar los sigui
 - La prioridad que se le dará a este monitor
 
 
-Para ver el status de los monitores, se deebe correr Uptime.py
+Para ver el status de los monitores, se deebe correr Uptime.py y tambien se mostrata
